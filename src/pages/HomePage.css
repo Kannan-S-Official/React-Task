@@ -1,0 +1,80 @@
+.all{
+  overflow: hidden;
+}
+.post{
+  background-color: burlywood;
+  width: 98%;
+  text-align: center;
+  padding-top: 10px;
+  height: 60px;
+  border-radius: 35px;
+  margin: 5px;
+  font-weight: bold;
+  border-width: none;
+ 
+}
+.viewall{
+  background-color: burlywood;
+  border-radius: none;
+  width: 98%;
+  height: 50px;
+  border-radius: 35px;
+  margin: 10px;
+  font-weight: bold;
+  border-width: none;
+}
+.deleteone{
+  background-color: burlywood;
+  border-radius: none;
+  width: 98%;
+  height: 50px;
+  border-radius: 35px;
+  margin: 10px;
+  font-weight: bold;
+  border-width: none;
+}
+.deleteall{
+  background-color: burlywood;
+  border-radius: none;
+  width: 98%;
+  height: 50px;
+  border-radius: 35px;
+  margin: 10px;
+  font-weight: bold;
+  border-width: none;
+}
+
+.view-all{
+  background-color: burlywood;
+  border-radius: none;
+  width: 98%;
+  height: 90px;
+  border-radius: 35px;
+  margin: 10px;
+  font-weight: bold;
+  border-width: none;
+  font-size: 50px;
+}
+.home{
+  background-color: burlywood;
+  border-radius: none;
+  width: 98%;
+  height: 50px;
+  border-radius: 35px;
+  margin: 10px;
+  font-weight: bold;
+  border-width: none;
+}
+.count{
+  background-color: burlywood;
+  width: 98%;
+  height: 40px;
+  padding-top: 10px;
+  border-radius: 35px;
+  margin: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+ 
+
+
